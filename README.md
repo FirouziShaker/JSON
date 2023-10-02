@@ -1,1 +1,2 @@
 # JSON
+So to summarize, JSON is a lightweight data representation. It's a great format for passing data from the server to the client, and a lot of times back as well from the client to the server if you want to give it some more descriptive data. The syntax of JSON is based on JavaScript object literal. But please remember, JSON is not a JavaScript object literal. It's just a string. JSON.parse will let you convert from JSON string to object. And JSON.stringify will let you convert from the object to the JSON string.
